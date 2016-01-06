@@ -1,9 +1,12 @@
 .sidebar {
-
+  width: 20%;
+  float: left;
+  background-color: lightgrey;
 }
 .main {
-
+  width: 40%;
 }
 .photos {
-  
+  float: right;
+  width: 40%;
 }
